@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/work/coeli" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/learning/grammar-edit" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/letgo/redemption" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

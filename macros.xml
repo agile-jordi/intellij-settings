@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test">
+      <typing text-keycode="0:1">(</typing>
+      <action id="Find" />
+      <typing text-keycode="91:0;0:1;0:1;93:0">[^|]</typing>
+      <typing text-keycode="92:0">\</typing>
+      <typing text-keycode="78:0">n</typing>
+      <shortuct text="meta G" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLeft" />
+      <typing text-keycode="0:1">)</typing>
+    </macro>
+  </component>
+</application>

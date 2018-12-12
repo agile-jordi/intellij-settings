@@ -1,0 +1,8 @@
+<list display="Compare with">
+  <action id="CompareClipboardWithSelection" />
+  <action id="Compare.SameVersion" />
+  <action id="Git.CompareWithBranch" />
+  <action id="Compare.Specified" />
+  <action id="Vcs.ShowDiffWithLocal" />
+  <action id="Compare.Selected" />
+</list>

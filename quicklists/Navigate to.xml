@@ -1,0 +1,16 @@
+<list display="Navigate to">
+  <action id="SelectIn" />
+  <action id="QuickList.$Separator$" />
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="QuickList.$Separator$" />
+  <action id="TypeHierarchy" />
+  <action id="ShowFilePath" />
+  <action id="FileStructurePopup" />
+  <action id="CallHierarchy" />
+  <action id="MethodHierarchy" />
+  <action id="JumpToLastChange" />
+  <action id="JumpToNextChange" />
+</list>
