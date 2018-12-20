@@ -17,10 +17,9 @@
   </action>
   <action id="FindUsagesInFile" />
   <action id="Git.Commit.And.Push.Executor" />
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="button2" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt down" />
   </action>
   <action id="GotoNextError">
