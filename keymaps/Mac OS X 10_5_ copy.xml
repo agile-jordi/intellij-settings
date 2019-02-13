@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta alt w" />
@@ -8,6 +12,9 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="FileChooser.GotoDesktop" />
@@ -17,6 +24,12 @@
   </action>
   <action id="FindUsagesInFile" />
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
@@ -52,6 +65,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
@@ -65,6 +81,7 @@
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
