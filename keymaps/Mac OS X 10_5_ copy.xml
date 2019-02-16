@@ -15,6 +15,9 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="FileChooser.GotoDesktop" />
