@@ -15,6 +15,9 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
   </action>
