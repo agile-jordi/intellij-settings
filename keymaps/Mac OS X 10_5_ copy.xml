@@ -69,9 +69,6 @@
   <action id="QuickList.Navigate to">
     <keyboard-shortcut first-keystroke="ctrl meta alt n" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift meta alt l" />
-  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="Scala.RunWorksheet" />
   <action id="Scala.ShowImplicits">
@@ -88,15 +85,10 @@
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-  </action>
   <action id="TextComponent.ClearAction">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
-  <action id="Vcs.ReformatCommitMessage">
-    <keyboard-shortcut first-keystroke="shift meta alt l" />
-  </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
