@@ -11,6 +11,7 @@
         <option value="com.letgo" />
       </array>
     </option>
+    <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
 </code_scheme>
