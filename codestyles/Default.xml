@@ -7,10 +7,13 @@
         <option value="scala" />
         <option value="_______ blank line _______" />
         <option value="all other imports" />
+        <option value="cats" />
+        <option value="play" />
         <option value="_______ blank line _______" />
         <option value="com.letgo" />
       </array>
     </option>
+    <option name="sortAsScalastyle" value="true" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
