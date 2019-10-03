@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="org.typelevel:cats-core_2.12:1.6.0" type="repository">
+      <properties include-transitive-deps="false" maven-id="org.typelevel:cats-core_2.12:1.6.0" />
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-core_2.12/1.6.0/cats-core_2.12-1.6.0-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.12.8" type="Scala">
       <properties>
         <compiler-classpath>
