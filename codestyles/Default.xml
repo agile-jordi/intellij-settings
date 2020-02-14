@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="99" />
     <option name="importLayout">
       <array>
         <option value="java" />
