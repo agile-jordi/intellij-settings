@@ -7,11 +7,11 @@
         <option value="_______ blank line _______" />
         <option value="scala" />
         <option value="_______ blank line _______" />
-        <option value="all other imports" />
         <option value="cats" />
-        <option value="play" />
         <option value="_______ blank line _______" />
-        <option value="com.letgo" />
+        <option value="all other imports" />
+        <option value="_______ blank line _______" />
+        <option value="link.smartcity" />
       </array>
     </option>
     <option name="sortAsScalastyle" value="true" />
