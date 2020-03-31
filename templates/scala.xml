@@ -1,0 +1,3 @@
+<templateSet group="scala">
+  <template name="option" value="Option[$SELECTION$]" toReformat="false" toShortenFQNames="true" />
+</templateSet>
