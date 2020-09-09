@@ -7,6 +7,6 @@
     <option name="INTRODUCE_FIELD_REPLACE_ALL" value="true" />
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
-    <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
+    <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
   </component>
 </application>
