@@ -99,6 +99,9 @@
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt 1" />
+  </action>
   <action id="TextComponent.ClearAction">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
