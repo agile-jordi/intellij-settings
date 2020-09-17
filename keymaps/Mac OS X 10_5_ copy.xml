@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ActivatesbtToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
@@ -100,7 +100,7 @@
   </action>
   <action id="SendEOF" />
   <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt 1" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt f1" />
   </action>
   <action id="TextComponent.ClearAction">
     <keyboard-shortcut first-keystroke="meta alt k" />
