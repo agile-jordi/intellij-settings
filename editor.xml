@@ -31,6 +31,6 @@
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="Scala.ScalaTypeHintsSettingsModel" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
