@@ -7,6 +7,5 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="compiler.process.jdk" value="/Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home" />
   </component>
 </application>
