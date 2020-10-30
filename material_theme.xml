@@ -16,8 +16,9 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialWallpapers" value="true" />
-    <option name="accentColor" value="ff79c5" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="accentColor" value="204181" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="-14e70502:17573515bbf:-8000" />
     <option name="version" value="5.2.0" />
   </component>
