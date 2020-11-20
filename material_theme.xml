@@ -15,7 +15,9 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
+    <option name="useProjectFrame" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="accentColor" value="816c20" />
     <option name="selectedTheme" value="NIGHT_OWL" />
