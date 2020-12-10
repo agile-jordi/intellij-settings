@@ -3,6 +3,7 @@
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.5167785" />
   </component>
   <component name="UsageViewSettings">
+    <option name="GROUP_BY_SCOPE" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.42671713" />
     <option name="IS_SORT_MEMBERS_ALPHABETICALLY" value="true" />
   </component>
