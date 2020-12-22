@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ActivatesbtToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
@@ -65,6 +65,7 @@
     <keyboard-shortcut first-keystroke="meta u" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt up" />
   </action>
+  <action id="GotoTest" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
@@ -99,6 +100,7 @@
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f1" />
   </action>
