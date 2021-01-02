@@ -21,6 +21,7 @@
     <option name="INDENT_FIRST_PARAMETER" value="false" />
     <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+    <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
