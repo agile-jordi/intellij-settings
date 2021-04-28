@@ -22,5 +22,6 @@
     <mask>Depen</mask>
     <mask>*.xml</mask>
     <mask>*.scala</mask>
+    <mask>*.gradle.kt</mask>
   </component>
 </application>
