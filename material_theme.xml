@@ -5,6 +5,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -22,6 +23,6 @@
     <option name="accentColor" value="816c20" />
     <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="-14e70502:17573515bbf:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.1" />
   </component>
 </application>
