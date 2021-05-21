@@ -9,6 +9,7 @@
       <mapping pattern="graphql" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
+      <mapping ext="ans" type="PLAIN_TEXT" />
       <mapping ext="http" type="Rest file" />
     </extensionMap>
   </component>
