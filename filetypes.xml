@@ -1,15 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="imagels" type="AUTO_DETECTED" />
       <mapping pattern="score" type="AUTO_DETECTED" />
+      <mapping pattern="imagels" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern="graphql" type="PLAIN_TEXT" />
-      <mapping pattern="routes" type="PLAIN_TEXT" />
-      <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="ans" type="PLAIN_TEXT" />
       <mapping ext="http" type="Rest file" />
     </extensionMap>
