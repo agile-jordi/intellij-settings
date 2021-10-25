@@ -1,6 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/work/lifull/ff/listings/apps/listings_api_ingester/src/testFixtures/resources/event_with_real_estate_ad_id.avsc" value="JSON" />
     <file url="file://$USER_HOME$/work/lifull/ff/listings/libs/kafka/src/testFixtures/resources/event_with_real_estate_ad.avsc" value="JSON" />
-    <file url="file://$USER_HOME$/work/lifull/ff/listings/libs/real_estate_ad/src/main/resources/schema/RealEstateAdDocument.avsc" value="AUTO_DETECTED" />
+    <file url="file://$USER_HOME$/work/lifull/ff/listings/libs/real_estate_ad/src/main/resources/schema/RealEstateAdDocument.avsc" value="JSON" />
   </component>
 </application>
